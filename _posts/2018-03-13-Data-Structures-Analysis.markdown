@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Data Structures "
-tagline: "Expirimenting with the Relative Performances of Data Structures"
+tagline: "Experimenting with the Relative Performances of Data Structures"
 date:   2018-03-10 17:32:49 -0500
 image: "/assets/data-structure.png"
 ---
