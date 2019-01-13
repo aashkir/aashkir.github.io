@@ -1,0 +1,23 @@
+---
+layout: project
+title:  "Dota Bash"
+tagline: "A custom game for Dota 2"
+date:   2016-06-03 17:32:49 -0500
+image: "/assets/gamemode.png"
+---
+
+# Some Context about Custom Games
+
+Dota 2 is a MOBA video game developed and published by Valve Corporation. Dota 2 supports the Arcade that houses Custom Games, many of which are developed by the community.
+
+## Dota Bash
+
+Dota Bash is my first custom game, and is inspired by the Crash Bash mini-game "Space Bash". It is developed in Lua which is the scripting language for accessing the API. The UI was developed in JavaScript, CSS and XML. 
+
+It has gained over 10,000 subscribers since lauch.
+
+I've also designed the logo using Adobe illustrator.
+
+[Here is the link to the workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=653411735).
+
+[Source code](coming_soon).
