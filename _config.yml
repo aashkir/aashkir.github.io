@@ -64,3 +64,6 @@ sidebar_sections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude:
+  - _posts/2012-01-01-test.markdown
